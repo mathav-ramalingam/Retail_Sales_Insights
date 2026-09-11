@@ -1,0 +1,13 @@
+SHIPPING RULES
+
+1. Same Day shipping is intended for urgent deliveries and provides the fastest delivery service.
+
+2. First Class shipping is designed for faster delivery than Second Class and Standard Class shipping.
+
+3. Second Class shipping provides moderate delivery speed.
+
+4. Standard Class is the default economical shipping option and may require a longer delivery time.
+
+5. Shipping delays should be monitored using the number of days between Order Date and Ship Date.
+
+6. Orders requiring faster delivery should be prioritized using appropriate shipping modes.
